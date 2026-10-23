@@ -1,0 +1,2357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2,
+          -28.1
+        ]
+      },
+      "properties": {
+        "name": "Moomba CCS",
+        "country": "Australia",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Santos / Beach Energy",
+        "location": "Moomba, Cooper Basin, South Australia",
+        "capacity": "~1.7 MtCO₂/yr",
+        "description": "Australia's first large-scale onshore CCS project, capturing CO₂ from the Moomba gas processing plant and injecting it into depleted gas reservoirs. Started injecting in late 2024."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5,
+          -25.2
+        ]
+      },
+      "properties": {
+        "name": "Santos Basin Pre-Salt CCUS",
+        "country": "Brazil",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Petrobras",
+        "location": "Santos Basin, offshore Rio de Janeiro, Brazil",
+        "capacity": "~14 MtCO₂/yr (2024)",
+        "description": "Petrobras' pre-salt CCUS program captures CO₂ from offshore FPSOs and reinjects it into pre-salt reservoirs for enhanced oil recovery, the world's largest offshore CO₂-EOR operation. A record ~14.2 Mt of CO₂ was reinjected in 2024."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2,
+          53.0
+        ]
+      },
+      "properties": {
+        "name": "Alberta Carbon Trunk Line (ACTL)",
+        "country": "Canada",
+        "status": "operational",
+        "stage": "operational",
+        "type": "hub",
+        "operator": "Wolf Midstream / Enhance Energy",
+        "location": "Redwater–Clive, Alberta",
+        "capacity": "~14.6 MtCO₂/yr (design)",
+        "description": "240 km CO₂ pipeline network linking Redwater-area emitters to enhanced oil recovery and permanent geological storage in central Alberta, operating since 2020. Its large design capacity of ~14.6 Mtpa is far above actual utilisation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.35,
+          55.4
+        ]
+      },
+      "properties": {
+        "name": "Glacier Gas Plant CCS",
+        "country": "Canada",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Entropy Inc. / Advantage Energy",
+        "location": "Valhalla (Saddle Hills County), Alberta",
+        "capacity": "~0.2 MtCO₂/yr",
+        "description": "Entropy's modular post-combustion CCS at Advantage Energy's Glacier gas plant, capturing from compression engines since 2022 and expanded in 2026 with a 15 MW cogeneration unit integrated with capture. Captures ~192,000 t/yr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.08,
+          53.96
+        ]
+      },
+      "properties": {
+        "name": "North West Redwater Sturgeon Refinery CCS",
+        "country": "Canada",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "North West Redwater Partnership (Canadian Natural Resources / Alberta Government)",
+        "location": "Redwater, Alberta",
+        "capacity": "~1.2 MtCO₂/yr",
+        "description": "Gasification-based bitumen refinery that produces a pure, dry CO₂ stream captured rather than vented, serving as the anchor supply for the Alberta Carbon Trunk Line. Captures up to ~1.2 Mtpa of CO₂."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.11,
+          53.95
+        ]
+      },
+      "properties": {
+        "name": "Nutrien Redwater CCS",
+        "country": "Canada",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Nutrien",
+        "location": "Redwater, Alberta",
+        "capacity": "~0.3 MtCO₂/yr",
+        "description": "Captures CO₂ from ammonia and hydrogen production at Nutrien's Redwater nitrogen complex and exports it into the Alberta Carbon Trunk Line. A 2023 expansion raised capture/export capacity to over 300,000 t/yr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.15,
+          53.79
+        ]
+      },
+      "properties": {
+        "name": "Quest CCS",
+        "country": "Canada",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Shell Canada (Athabasca Oil Sands Project)",
+        "location": "Scotford (Fort Saskatchewan), Alberta",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Shell-operated amine CCS capturing CO₂ from three hydrogen manufacturing units at the Scotford Upgrader since 2015, stored ~2 km underground in the Basal Cambrian Sands. It has exceeded its ~1 Mtpa target, storing over 7 million tonnes cumulatively."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          20.2
+        ]
+      },
+      "properties": {
+        "name": "CNOOC Enping 15-1 Offshore CCUS",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "CNOOC",
+        "location": "Enping field, South China Sea",
+        "capacity": "~0.3 MtCO₂/yr",
+        "description": "China's first offshore carbon capture, utilisation and storage project, reinjecting CO₂ separated from the Enping 15-1 oilfield into a nearby saline aquifer. Operating since 2023."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8,
+          45.14
+        ]
+      },
+      "properties": {
+        "name": "CNPC Jilin Oilfield CO2-EOR",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "CNPC",
+        "location": "Songyuan, Jilin",
+        "capacity": "~0.6 MtCO₂/yr",
+        "description": "China's first large-scale CO₂-EOR project, separating CO₂ from the Changling gas field and injecting it into the Jilin low-permeability oilfield for enhanced oil recovery since 2018."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4,
+          38.8
+        ]
+      },
+      "properties": {
+        "name": "Guohua Jinjie CCS",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "power",
+        "operator": "China Energy (Shenhua/Guohua)",
+        "location": "Yulin, Shaanxi",
+        "capacity": "~0.15 MtCO₂/yr",
+        "description": "Post-combustion carbon capture unit on a 600 MW unit of the Guohua Jinjie coal power station, capturing around 150,000 tonnes of CO₂ per year at a 90% capture rate since 2021."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.05,
+          36.81
+        ]
+      },
+      "properties": {
+        "name": "Sinopec Qilu–Shengli CCUS",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Sinopec",
+        "location": "Zibo, Shandong",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Sinopec's flagship CCUS project, capturing CO₂ from the Qilu refinery/petrochemical complex and piping it to the Shengli oilfield for enhanced oil recovery. First phase started in 2019, expanded toward ~1 Mtpa by 2021."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "Taizhou Power Plant CCS",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "power",
+        "operator": "China Energy (National Energy Group)",
+        "location": "Taizhou, Jiangsu",
+        "capacity": "~0.5 MtCO₂/yr",
+        "description": "Carbon capture on a coal-fired unit of the Taizhou power plant, capturing about 500,000 tonnes of CO₂ per year for utilisation and storage. Operating since 2023."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.73,
+          38.29
+        ]
+      },
+      "properties": {
+        "name": "Yanchang CCUS",
+        "country": "China",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Yanchang Petroleum",
+        "location": "Yulin, Shaanxi",
+        "capacity": "~0.4 MtCO₂/yr",
+        "description": "Integrated CCUS project at two coal-to-chemical plants in Yulin, capturing CO₂ for enhanced oil recovery in the Ordos Basin low-permeability reservoirs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3,
+          64.04
+        ]
+      },
+      "properties": {
+        "name": "Carbfix Hellisheiði",
+        "country": "Iceland",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Carbfix (Reykjavík Energy)",
+        "location": "Hellisheiði, Iceland",
+        "capacity": "~10 ktCO₂/yr",
+        "description": "Dissolves CO₂ in water and injects it into basalt at Hellisheiði, where it mineralises into rock; operational since 2014."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4,
+          64.04
+        ]
+      },
+      "properties": {
+        "name": "Climeworks Mammoth",
+        "country": "Iceland",
+        "status": "operational",
+        "stage": "operational",
+        "type": "DAC",
+        "operator": "Climeworks",
+        "location": "Hellisheiði, Iceland",
+        "capacity": "~36 ktCO₂/yr",
+        "description": "Climeworks' larger direct air capture plant in Iceland, ramping up to about 36,000 tonnes per year with CO₂ mineralised underground by Carbfix."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4,
+          64.04
+        ]
+      },
+      "properties": {
+        "name": "Climeworks Orca",
+        "country": "Iceland",
+        "status": "operational",
+        "stage": "operational",
+        "type": "DAC",
+        "operator": "Climeworks",
+        "location": "Hellisheiði, Iceland",
+        "capacity": "~4 ktCO₂/yr",
+        "description": "Climeworks' first commercial direct air capture and storage plant at Hellisheiði, capturing about 4,000 tonnes of CO₂ per year using Carbfix mineralisation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          44.42
+        ]
+      },
+      "properties": {
+        "name": "Ravenna CCS",
+        "country": "Italy",
+        "status": "operational",
+        "stage": "operational",
+        "type": "hub",
+        "operator": "Eni / Snam JV",
+        "location": "Ravenna, Italy",
+        "capacity": "~25 ktCO₂/yr (Phase 1); ~4 MtCO₂/yr (Phase 2 planned)",
+        "description": "Eni-Snam joint venture CCS hub in the Adriatic; Phase 1 began injecting CO₂ in 2024, with Phase 2 targeting around 4 MtCO₂/yr of industrial emitters."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          59.05
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg Materials Brevik CCS",
+        "country": "Norway",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Heidelberg Materials",
+        "location": "Brevik, Porsgrunn, Norway",
+        "capacity": "~0.4 MtCO₂/yr",
+        "description": "First commercial-scale carbon capture at a cement plant, capturing CO₂ from the Norcem Brevik kiln for shipment to Northern Lights; captured first CO₂ during its 2025 ramp-up."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93,
+          60.45
+        ]
+      },
+      "properties": {
+        "name": "Northern Lights",
+        "country": "Norway",
+        "status": "operational",
+        "stage": "operational",
+        "type": "hub",
+        "operator": "Northern Lights JV (Equinor/Shell/TotalEnergies)",
+        "location": "Øygarden, Norway",
+        "capacity": "~1.5 MtCO₂/yr (Phase 1; up to 5 MtCO₂/yr)",
+        "description": "Europe's first open-access CO₂ transport and storage network; receives liquefied CO₂ at Øygarden and injects it into a North Sea saline aquifer. Phase 1 commissioned 2024/2025."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91,
+          58.37
+        ]
+      },
+      "properties": {
+        "name": "Sleipner CO₂ Storage",
+        "country": "Norway",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Equinor",
+        "location": "Sleipner field, North Sea, Norway",
+        "capacity": "~1 MtCO₂/yr",
+        "description": "World's first dedicated offshore CO₂ storage project, separating CO₂ from Sleipner gas production and injecting it into the Utsira saline aquifer since 1996."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6,
+          70.69
+        ]
+      },
+      "properties": {
+        "name": "Snøhvit CO₂ Storage",
+        "country": "Norway",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Equinor",
+        "location": "Melkøya LNG, Hammerfest, Norway",
+        "capacity": "~0.7 MtCO₂/yr",
+        "description": "Captures CO₂ from the Melkøya LNG plant and injects it into the Tubåen formation beneath the Snøhvit field; restarted in 2022 after the 2020 plant fire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56,
+          25.91
+        ]
+      },
+      "properties": {
+        "name": "Ras Laffan CCS",
+        "country": "Qatar",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "QatarEnergy",
+        "location": "Ras Laffan Industrial City, Qatar",
+        "capacity": "~2.2 MtCO₂/yr",
+        "description": "QatarEnergy's first CCS project, capturing ~2.2 Mtpa of CO₂ from LNG trains at Ras Laffan Industrial City for geological sequestration. Operational since 2019."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3,
+          24.2
+        ]
+      },
+      "properties": {
+        "name": "Uthmaniyah CO₂-EOR",
+        "country": "Saudi Arabia",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Saudi Aramco",
+        "location": "Uthmaniyah, Eastern Province, Saudi Arabia",
+        "capacity": "~0.8 MtCO₂/yr",
+        "description": "Saudi Aramco's first CO₂-EOR demonstration, capturing ~0.8 Mtpa of CO₂ from the Hawiyah gas plant and piping it ~85 km to the Uthmaniyah oil field for enhanced oil recovery. Operating since 2015."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5,
+          24.37
+        ]
+      },
+      "properties": {
+        "name": "Al Reyadah CCUS",
+        "country": "United Arab Emirates",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "ADNOC / Masdar",
+        "location": "Mussafah, Abu Dhabi, UAE",
+        "capacity": "~0.8 MtCO₂/yr",
+        "description": "The MENA region's first commercial-scale CCUS facility, capturing CO₂ from Emirates Steel Arkan's plant in Mussafah and piping it ~43 km for enhanced oil recovery in ADNOC onshore fields. Operating since 2016."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52,
+          53.26
+        ]
+      },
+      "properties": {
+        "name": "Tata Chemicals Europe CCS",
+        "country": "United Kingdom",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Tata Chemicals Europe",
+        "location": "Northwich, Cheshire, United Kingdom",
+        "capacity": "~0.04 MtCO₂/yr (36 ktCO₂/yr)",
+        "description": "The UK's first commercial industrial carbon capture plant, capturing CO₂ from a gas-fired combined heat and power plant to produce pharmaceutical and food-grade sodium bicarbonate and salt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.954,
+          39.84
+        ]
+      },
+      "properties": {
+        "name": "ADM Decatur (Illinois Industrial CCS)",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "bioenergy",
+        "operator": "Archer Daniels Midland (ADM)",
+        "location": "Decatur, Illinois",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Ethanol plant capturing fermentation CO₂ and injecting it into the deep Mt. Simon Sandstone saline formation, one of the first large US saline-storage CCS operations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.929,
+          29.899
+        ]
+      },
+      "properties": {
+        "name": "Air Products Port Arthur SMR",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "hydrogen",
+        "operator": "Air Products",
+        "location": "Port Arthur, Texas",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Steam methane reformer producing hydrogen for the Valero Port Arthur refinery, with CO₂ capture. Captured CO₂ is used for enhanced oil recovery in Texas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.921,
+          37.043
+        ]
+      },
+      "properties": {
+        "name": "Arkalon CO2 Compression Facility",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "bioenergy",
+        "operator": "Conestoga Energy Partners / Chaparral Energy",
+        "location": "Liberal, Kansas",
+        "capacity": "~0.3 MtCO₂/yr",
+        "description": "Ethanol plant CO₂ compression facility sending captured CO₂ to Kansas and Oklahoma oilfields for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.872,
+          37.972
+        ]
+      },
+      "properties": {
+        "name": "Bonanza BioEnergy",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "bioenergy",
+        "operator": "Chaparral Energy",
+        "location": "Garden City, Kansas",
+        "capacity": "~0.1 MtCO₂/yr",
+        "description": "Ethanol plant capturing fermentation CO₂ for enhanced oil recovery in nearby Kansas oilfields."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.879,
+          30.894
+        ]
+      },
+      "properties": {
+        "name": "Century Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Occidental Petroleum (Oxy)",
+        "location": "Fort Stockton, Texas",
+        "capacity": "~8.4 MtCO₂/yr",
+        "description": "Natural gas processing plant in the Permian Basin capturing CO₂ from the processed gas stream. Captured CO₂ feeds Occidental's Permian Basin enhanced oil recovery operations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.616,
+          37.037
+        ]
+      },
+      "properties": {
+        "name": "Coffeyville Gasification Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Coffeyville Resources (CVR Energy)",
+        "location": "Coffeyville, Kansas",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Petroleum coke gasification and nitrogen fertilizer complex capturing CO₂ from ammonia production. Captured CO₂ is transported to Kansas and Oklahoma oilfields for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37,
+          29.76
+        ]
+      },
+      "properties": {
+        "name": "Denbury/ExxonMobil Gulf Coast CO2 Network",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Denbury (ExxonMobil)",
+        "location": "Gulf Coast, Texas–Louisiana",
+        "capacity": "—",
+        "description": "Large operating network of CO₂ pipelines and enhanced oil recovery fields across the Gulf Coast, including the Green Pipeline. ExxonMobil is expanding it into a CO₂ 'superhighway' for new capture projects and permanent storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.879,
+          36.397
+        ]
+      },
+      "properties": {
+        "name": "Enid Fertilizer Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Koch Fertilizer",
+        "location": "Enid, Oklahoma",
+        "capacity": "~0.7 MtCO₂/yr",
+        "description": "Ammonia and fertilizer plant capturing CO₂ from its steam methane reforming process. Captured CO₂ is transported for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.778,
+          47.264
+        ]
+      },
+      "properties": {
+        "name": "Great Plains Synfuels Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "industrial",
+        "operator": "Dakota Gasification Company",
+        "location": "Beulah, North Dakota",
+        "capacity": "~3.0 MtCO₂/yr",
+        "description": "Coal-to-synthetic-natural-gas plant that captures CO₂ from its gasification process. Captured CO₂ is piped roughly 200 miles to the Weyburn and Midale fields in Saskatchewan, Canada for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.69,
+          43.269
+        ]
+      },
+      "properties": {
+        "name": "Lost Cabin Gas Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Denbury / ExxonMobil",
+        "location": "Lysite, Wyoming",
+        "capacity": "~0.9 MtCO₂/yr",
+        "description": "Natural gas processing plant capturing CO₂ from the gas stream. Captured CO₂ is compressed and piped for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.192,
+          42.264
+        ]
+      },
+      "properties": {
+        "name": "Shute Creek Gas Plant (LaBarge)",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "ExxonMobil",
+        "location": "LaBarge, Wyoming",
+        "capacity": "~7.0 MtCO₂/yr",
+        "description": "One of the world's largest operating CCS projects, capturing CO₂ from the LaBarge natural gas field's raw gas. ExxonMobil is expanding capacity toward about 8 Mtpa; CO₂ is sold for enhanced oil recovery and dedicated geologic storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.767,
+          31.907
+        ]
+      },
+      "properties": {
+        "name": "Stratos Direct Air Capture",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "DAC",
+        "operator": "1PointFive (Occidental)",
+        "location": "Notrees, Ector County, Texas",
+        "capacity": "~0.5 MtCO₂/yr",
+        "description": "First commercial-scale US direct air capture plant, designed to remove up to 500,000 tonnes of CO₂ per year. Began startup in 2025 with captured CO₂ destined for dedicated saline storage (Class VI wells) and potential EOR."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.275,
+          32.736
+        ]
+      },
+      "properties": {
+        "name": "Terrell Natural Gas Processing Plant",
+        "country": "United States",
+        "status": "operational",
+        "stage": "operational",
+        "type": "capture",
+        "operator": "Kinder Morgan / Denbury",
+        "location": "Terrell, Texas",
+        "capacity": "~0.5 MtCO₂/yr",
+        "description": "Natural gas processing facility that separates and captures CO₂ from the Barnett Shale gas stream. Captured CO₂ is compressed and delivered via Denbury's pipeline network for enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.405,
+          -20.798
+        ]
+      },
+      "properties": {
+        "name": "Gorgon CO2 Injection",
+        "country": "Australia",
+        "status": "underperforming",
+        "stage": "operational",
+        "type": "storage",
+        "operator": "Chevron (Gorgon JV)",
+        "location": "Barrow Island, Western Australia",
+        "capacity": "~4.0 MtCO₂/yr (nameplate)",
+        "description": "One of the world's largest CCS projects, separating CO₂ from the Gorgon LNG plant and injecting it into a deep saline formation beneath Barrow Island. It began injecting in 2019 but has stored far below its ~4 Mtpa design target — roughly 2.5 Mt in its first five years versus ~20 Mt expected."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99,
+          49.14
+        ]
+      },
+      "properties": {
+        "name": "Boundary Dam Unit 3 CCS",
+        "country": "Canada",
+        "status": "underperforming",
+        "stage": "operational",
+        "type": "power",
+        "operator": "SaskPower",
+        "location": "Estevan, Saskatchewan",
+        "capacity": "~1.0 MtCO₂/yr (nameplate)",
+        "description": "World's first commercial-scale post-combustion CCS retrofit on a coal-fired power unit (110 MW lignite), operating since 2014. It has captured CO₂ well below its ~1 Mtpa design target, with frequent outages and low availability."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.635,
+          29.48
+        ]
+      },
+      "properties": {
+        "name": "Petra Nova",
+        "country": "United States",
+        "status": "underperforming",
+        "stage": "operational",
+        "type": "power",
+        "operator": "NRG Energy / JX Nippon",
+        "location": "Thompsons (W.A. Parish), Texas",
+        "capacity": "~1.4 MtCO₂/yr (nameplate)",
+        "description": "Post-combustion amine capture system on a unit of the W.A. Parish coal plant. It captured well below its ~1.4 Mtpa design target, was idled in 2020, and restarted in late 2023 at reduced rates."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9,
+          -38.4
+        ]
+      },
+      "properties": {
+        "name": "CarbonNet",
+        "country": "Australia",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "Victorian Government (CarbonNet)",
+        "location": "Gippsland, Victoria",
+        "capacity": "—",
+        "description": "Victorian government-backed CO₂ transport and storage network concept in the Gippsland Basin, aiming to connect Latrobe Valley industrial emitters to offshore storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4,
+          -38.4
+        ]
+      },
+      "properties": {
+        "name": "Gippsland Basin CCS (SE Australia)",
+        "country": "Australia",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Esso / ExxonMobil (with partners)",
+        "location": "Gippsland Basin, offshore Victoria",
+        "capacity": "up to ~1 MtCO₂/yr (initial)",
+        "description": "ExxonMobil/Esso-led project to repurpose depleted Gippsland Basin gas fields for CO₂ storage, serving industrial emitters in Victoria's Latrobe Valley and Gippsland region."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17,
+          -22.91
+        ]
+      },
+      "properties": {
+        "name": "Rio de Janeiro CCS Pilot",
+        "country": "Brazil",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Petrobras",
+        "location": "Rio de Janeiro, Brazil",
+        "capacity": "~0.1 MtCO₂/yr",
+        "description": "Petrobras' first dedicated CCS pilot in Rio de Janeiro state, tendered in September 2025 to inject ~100,000 tonnes of CO₂ per year. A step toward scaling Brazil's geological storage beyond pre-salt EOR."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32,
+          53.63
+        ]
+      },
+      "properties": {
+        "name": "Air Products Edmonton Net-Zero Hydrogen Complex",
+        "country": "Canada",
+        "status": "development",
+        "stage": "construction",
+        "type": "hydrogen",
+        "operator": "Air Products",
+        "location": "Edmonton, Alberta",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Net-zero hydrogen production complex in northeast Edmonton supplying blue hydrogen to Imperial Oil's Strathcona refinery, with autothermal reforming and carbon capture of roughly 1 Mtpa CO₂ for transport and storage. Construction is well underway."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2,
+          53.2
+        ]
+      },
+      "properties": {
+        "name": "Alberta Carbon Grid",
+        "country": "Canada",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "TC Energy / Pembina Pipeline",
+        "location": "Central Alberta",
+        "capacity": "—",
+        "description": "TC Energy and Pembina Pipeline's proposed open-access CO₂ transportation and storage hub across Alberta's industrial heartland. In early development."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.21,
+          53.71
+        ]
+      },
+      "properties": {
+        "name": "Dow Fort Saskatchewan Path2Zero",
+        "country": "Canada",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Dow",
+        "location": "Fort Saskatchewan, Alberta",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Dow's world-first net-zero Scope 1 and 2 ethylene cracker and derivatives expansion, with carbon capture and storage reducing existing emissions by ~1 Mtpa and abating all new capacity emissions. FID taken November 2023, later delayed and reaffirmed with a 2029–2030 start-up timeline."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.44,
+          52.48
+        ]
+      },
+      "properties": {
+        "name": "Enhance Energy Origins CCS Hub",
+        "country": "Canada",
+        "status": "development",
+        "stage": "construction",
+        "type": "hub",
+        "operator": "Enhance Energy",
+        "location": "Clive, Alberta",
+        "capacity": "~1.5 MtCO₂/yr",
+        "description": "Open-access carbon capture and storage hub near Clive, Alberta, set to become Canada's largest operating sequestration facility. Broke ground in 2026 with commercial operations targeted for January 2027 and built-in expansion capacity."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.53,
+          53.63
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg Materials Edmonton CCUS",
+        "country": "Canada",
+        "status": "development",
+        "stage": "early development",
+        "type": "industrial",
+        "operator": "Heidelberg Materials",
+        "location": "Edmonton, Alberta",
+        "capacity": "~1.0 MtCO₂/yr",
+        "description": "Heidelberg Materials' ~1 Mtpa cement CCUS project at its Edmonton plant, sending captured CO₂ by pipeline to the Wabamun Carbon Hub. Originally slated for late 2026, it was placed on hold in 2026 amid weak carbon pricing and regulatory uncertainty."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.16,
+          51.05
+        ]
+      },
+      "properties": {
+        "name": "Lafarge Exshaw Cement CCS",
+        "country": "Canada",
+        "status": "development",
+        "stage": "early development",
+        "type": "industrial",
+        "operator": "Lafarge Canada",
+        "location": "Exshaw, Alberta",
+        "capacity": "—",
+        "description": "Lafarge Canada's carbon capture development at its Exshaw cement plant in the Bow Valley, at pre-FID feasibility/pilot stage. Part of broader efforts to decarbonise Alberta cement production."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.21,
+          53.71
+        ]
+      },
+      "properties": {
+        "name": "Linde Fort Saskatchewan Clean Hydrogen",
+        "country": "Canada",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hydrogen",
+        "operator": "Linde",
+        "location": "Fort Saskatchewan, Alberta",
+        "capacity": "—",
+        "description": "Linde's ~$2B blue hydrogen complex at Fort Saskatchewan, using autothermal reforming with carbon capture to supply clean hydrogen to Dow's Path2Zero site. FID taken; supports the net-zero ethylene complex."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.47,
+          53.56
+        ]
+      },
+      "properties": {
+        "name": "Open Access Wabamun Carbon Hub",
+        "country": "Canada",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Enbridge",
+        "location": "Wabamun, Alberta",
+        "capacity": "~1.0 MtCO₂/yr (Phase 1)",
+        "description": "Enbridge's open-access CO₂ transportation and storage hub near Wabamun, serving multiple Edmonton-region emitters including Heidelberg Materials. Approved by the Alberta government; Phase 1 targets ~1 Mtpa with expansion potential."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.38,
+          56.73
+        ]
+      },
+      "properties": {
+        "name": "Pathways Alliance CCS Hub",
+        "country": "Canada",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "Pathways Alliance (Cenovus, Suncor, Canadian Natural, Imperial, ConocoPhillips, MEG Energy)",
+        "location": "Fort McMurray / Cold Lake, Alberta",
+        "capacity": "~10–12 MtCO₂/yr",
+        "description": "Proposed oil-sands CCS network connecting ~20 facilities across the Fort McMurray and Cold Lake regions to a shared storage hub. Estimated at ~$16.5B and targeting ~10–12 Mtpa, it remains pre-FID with a decision targeted for late 2027."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2,
+          53.72
+        ]
+      },
+      "properties": {
+        "name": "Shell Atlas Carbon Storage Hub",
+        "country": "Canada",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Shell / ATCO EnPower",
+        "location": "Fort Saskatchewan, Alberta",
+        "capacity": "—",
+        "description": "CO₂ storage hub developed by Shell in partnership with ATCO EnPower near Scotford, with FID taken June 2024. Phase 1 will provide permanent storage for CO₂ captured by the Polaris project, with capacity to expand for third-party emitters."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.15,
+          53.79
+        ]
+      },
+      "properties": {
+        "name": "Shell Polaris CCS",
+        "country": "Canada",
+        "status": "development",
+        "stage": "construction",
+        "type": "capture",
+        "operator": "Shell Canada",
+        "location": "Scotford, Alberta",
+        "capacity": "~0.65 MtCO₂/yr",
+        "description": "Second CCS unit at Shell's Scotford Energy and Chemicals Park, with FID taken June 2024 to capture ~650,000 t/yr of CO₂ from refinery and upgrader operations. Expected to start up toward the end of 2028."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          56.3
+        ]
+      },
+      "properties": {
+        "name": "Bifrost",
+        "country": "Denmark",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Ørsted (with Gas Storage Denmark / Nordsøfonden)",
+        "location": "Harald field, Danish North Sea",
+        "capacity": "~3 MtCO₂/yr (up to 16 MtCO₂/yr)",
+        "description": "Ørsted-led offshore CO₂ storage project in the Danish North Sea (Harald field), planned to store around 3 MtCO₂/yr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9,
+          57.0
+        ]
+      },
+      "properties": {
+        "name": "Norne CO₂ Storage Hub",
+        "country": "Denmark",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hub",
+        "operator": "Norne CCS (TotalEnergies-led consortium)",
+        "location": "Aalborg / North Jutland, Denmark",
+        "capacity": "up to ~10 MtCO₂/yr by 2030",
+        "description": "Danish onshore-to-offshore CO₂ storage hub in North Jutland, led by a TotalEnergies consortium, aiming to store CO₂ from around 2030."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2,
+          55.4
+        ]
+      },
+      "properties": {
+        "name": "Project Greensand",
+        "country": "Denmark",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "INEOS (with Wintershall Dea / Harbour Energy)",
+        "location": "Nini West field, Danish North Sea",
+        "capacity": "~1.5 MtCO₂/yr (up to 8 MtCO₂/yr)",
+        "description": "Pioneering cross-border CO₂ storage in Denmark's Nini West field; completed Europe's first cross-border injection pilot in 2023 with full-scale operation planned."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0,
+          29.0
+        ]
+      },
+      "properties": {
+        "name": "Meleiha CCS",
+        "country": "Egypt",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "Eni / EGPC",
+        "location": "Meleiha, Western Desert, Egypt",
+        "capacity": "~0.03 MtCO₂/yr",
+        "description": "A small CCS pilot by Eni and EGPC at the Meleiha field in Egypt's Western Desert, targeting capture and storage of ~25,000–30,000 tonnes of CO₂ per year. Announced in 2022 as Egypt's first CCS project."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34,
+          51.04
+        ]
+      },
+      "properties": {
+        "name": "Dunkerque Industrial CCS",
+        "country": "France",
+        "status": "development",
+        "stage": "early development",
+        "type": "industrial",
+        "operator": "ArcelorMittal (with Air Liquide)",
+        "location": "Dunkirk, Hauts-de-France, France",
+        "capacity": "up to ~1 MtCO₂/yr",
+        "description": "Planned industrial CCS in the Dunkirk area, initially targeting ArcelorMittal's steelworks emissions for offshore storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.63,
+          43.42
+        ]
+      },
+      "properties": {
+        "name": "Pycasso CO₂ Storage",
+        "country": "France",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "Teréga / TotalEnergies",
+        "location": "Lacq, Pyrénées-Atlantiques, France",
+        "capacity": "~1 MtCO₂/yr",
+        "description": "Teréga and TotalEnergies' planned CO₂ transport and storage hub in south-west France using the depleted Rousse gas field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51,
+          51.64
+        ]
+      },
+      "properties": {
+        "name": "GeZero (Geseke)",
+        "country": "Germany",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Heidelberg Materials",
+        "location": "Geseke, North Rhine-Westphalia, Germany",
+        "capacity": "~0.7 MtCO₂/yr",
+        "description": "Heidelberg Materials' planned full-chain CCS at its Geseke cement plant, capturing CO₂ for transport to North Sea storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0,
+          -8.0
+        ]
+      },
+      "properties": {
+        "name": "Abadi CCS",
+        "country": "Indonesia",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "INPEX (Masela/Abadi JV)",
+        "location": "Abadi field, Masela Block, Arafura Sea",
+        "capacity": "—",
+        "description": "INPEX-led CCS integrated with the Abadi LNG development in the Masela Block, capturing CO₂ from the gas stream for reinjection into the Abadi reservoir."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.2,
+          -2.6
+        ]
+      },
+      "properties": {
+        "name": "Tangguh CCUS",
+        "country": "Indonesia",
+        "status": "development",
+        "stage": "construction",
+        "type": "storage",
+        "operator": "bp (Tangguh JV)",
+        "location": "Tangguh LNG, West Papua",
+        "capacity": "up to ~3 MtCO₂/yr (initial)",
+        "description": "Indonesia's first CCUS project, capturing CO₂ from the Tangguh LNG plant and reinjecting it into the Ubadari reservoir. Under construction with first injection targeted around 2026/2027 and long-term capacity up to ~15 Mtpa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          42.6
+        ]
+      },
+      "properties": {
+        "name": "Tomakomai CCS Demonstration",
+        "country": "Japan",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "JCCS (Japan CCS Co.)",
+        "location": "Tomakomai, Hokkaido",
+        "capacity": "~0.1 MtCO₂/yr (demonstration)",
+        "description": "Japan's offshore CCS demonstration, which met its 300,000-tonne injection target into sub-seafloor formations by 2019 before injection was suspended. Full-scale commercial expansion is under study."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5,
+          4.5
+        ]
+      },
+      "properties": {
+        "name": "Kasawari CCS",
+        "country": "Malaysia",
+        "status": "development",
+        "stage": "construction",
+        "type": "storage",
+        "operator": "Petronas",
+        "location": "Kasawari field, offshore Sarawak",
+        "capacity": "~3.3 MtCO₂/yr",
+        "description": "Petronas's first CCS project, capturing high-CO₂ gas from the Kasawari field and reinjecting it into a nearby saline aquifer offshore Sarawak. Under construction with first injection targeted around 2027."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "name": "Lang Lebah CCS",
+        "country": "Malaysia",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "Petronas",
+        "location": "Lang Lebah field, offshore Sarawak",
+        "capacity": "—",
+        "description": "Planned CCS associated with the Lang Lebah high-CO₂ gas field development offshore Sarawak, part of Petronas's growing CCS portfolio."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          52.2
+        ]
+      },
+      "properties": {
+        "name": "Aramis CCS",
+        "country": "Netherlands",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hub",
+        "operator": "Aramis CCS (TotalEnergies/Shell/EBN/Gasunie)",
+        "location": "Rotterdam / North Sea, Netherlands",
+        "capacity": "~22 MtCO₂/yr by 2030",
+        "description": "Large-scale CO₂ transport and storage initiative in the Dutch North Sea, aggregating emitters from Rotterdam and beyond for injection from around 2028/2030."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.02,
+          51.96
+        ]
+      },
+      "properties": {
+        "name": "CO2next",
+        "country": "Netherlands",
+        "status": "development",
+        "stage": "construction",
+        "type": "hub",
+        "operator": "Gasunie / Vopak",
+        "location": "Maasvlakte, Rotterdam, Netherlands",
+        "capacity": "~5.4 MtCO₂/yr",
+        "description": "Liquid CO₂ import, buffer and export terminal at Rotterdam's Maasvlakte enabling flexible CO₂ shipping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2,
+          53.6
+        ]
+      },
+      "properties": {
+        "name": "L10 CO₂ Storage",
+        "country": "Netherlands",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "Neptune Energy (Eni)",
+        "location": "L10 field, Dutch North Sea",
+        "capacity": "~4–5 MtCO₂/yr",
+        "description": "Planned CO₂ storage in the depleted L10 gas field in the Dutch North Sea, led by Neptune Energy (now Eni)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48,
+          51.92
+        ]
+      },
+      "properties": {
+        "name": "Porthos",
+        "country": "Netherlands",
+        "status": "development",
+        "stage": "construction",
+        "type": "hub",
+        "operator": "Port of Rotterdam Authority / Gasunie / EBN",
+        "location": "Rotterdam, Netherlands",
+        "capacity": "~2.5 MtCO₂/yr (up to ~6.5 MtCO₂/yr)",
+        "description": "Rotterdam's CO₂ transport and storage project injecting captured industrial CO₂ into depleted North Sea gas fields; under construction with first injection expected in 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8,
+          59.85
+        ]
+      },
+      "properties": {
+        "name": "Hafslund Celsio Klemetsrud CCS",
+        "country": "Norway",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Hafslund Celsio",
+        "location": "Klemetsrud, Oslo, Norway",
+        "capacity": "~0.35 MtCO₂/yr",
+        "description": "Planned CO₂ capture at Oslo's Klemetsrud waste-to-energy plant, originally part of the Longship project and now pursued by Hafslund Celsio with new partners."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.41,
+          23.59
+        ]
+      },
+      "properties": {
+        "name": "Blue Horizons",
+        "country": "Oman",
+        "status": "development",
+        "stage": "early development",
+        "type": "hydrogen",
+        "operator": "Shell Oman (KBR / Wood)",
+        "location": "Muscat region, Oman",
+        "capacity": "—",
+        "description": "Shell Oman's planned blue hydrogen/ammonia project with integrated CO₂ capture and dedicated geological storage, using KBR's blue ammonia technology and Wood for pre-FEED. Currently in early development."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56,
+          25.91
+        ]
+      },
+      "properties": {
+        "name": "North Field East CCS",
+        "country": "Qatar",
+        "status": "development",
+        "stage": "construction",
+        "type": "capture",
+        "operator": "QatarEnergy",
+        "location": "Ras Laffan Industrial City, Qatar",
+        "capacity": "~2.1 MtCO₂/yr",
+        "description": "A CCS project serving QatarEnergy's North Field East LNG expansion, capturing and storing ~2.1 Mtpa of CO₂. Under construction alongside the expansion."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56,
+          25.91
+        ]
+      },
+      "properties": {
+        "name": "North Field South CCS",
+        "country": "Qatar",
+        "status": "development",
+        "stage": "construction",
+        "type": "capture",
+        "operator": "QatarEnergy",
+        "location": "Ras Laffan Industrial City, Qatar",
+        "capacity": "~1.2 MtCO₂/yr",
+        "description": "A CCS project serving QatarEnergy's North Field South LNG expansion, capturing and storing ~1.2 Mtpa of CO₂. Under construction alongside the expansion."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56,
+          25.91
+        ]
+      },
+      "properties": {
+        "name": "Ras Laffan CCS Expansion",
+        "country": "Qatar",
+        "status": "development",
+        "stage": "construction",
+        "type": "capture",
+        "operator": "QatarEnergy (Samsung C&T EPC)",
+        "location": "Ras Laffan Industrial City, Qatar",
+        "capacity": "~4.1 MtCO₂/yr",
+        "description": "A major CCS project serving QatarEnergy's existing LNG facilities at Ras Laffan, with EPC awarded to Samsung C&T in November 2024. It will capture and sequester up to 4.1 Mtpa, among the world's largest CCS projects."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.66,
+          27.0
+        ]
+      },
+      "properties": {
+        "name": "Jubail CCS Hub",
+        "country": "Saudi Arabia",
+        "status": "development",
+        "stage": "construction",
+        "type": "hub",
+        "operator": "Aramco / Linde / SLB",
+        "location": "Jubail Industrial City, Eastern Province, Saudi Arabia",
+        "capacity": "~9 MtCO₂/yr (Phase 1)",
+        "description": "Aramco, Linde and SLB are developing one of the world's largest CCS hubs, targeting ~9 Mtpa of CO₂ capture in its first phase by 2027 with expansion to ~14 Mtpa planned. CO₂ from Aramco gas plants and industrial sources will be stored in onshore saline aquifers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.87,
+          -26.35
+        ]
+      },
+      "properties": {
+        "name": "SACCCS Leandra Pilot",
+        "country": "South Africa",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "South African Centre for Carbon Capture & Storage (SACCCS)",
+        "location": "Leandra, Mpumalanga, South Africa",
+        "capacity": "—",
+        "description": "South Africa's pilot CO₂ storage project led by SACCCS, planned at Leandra in Mpumalanga. Long-delayed and still in early development as the country's first CO₂ injection pilot."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1,
+          59.35
+        ]
+      },
+      "properties": {
+        "name": "BECCS Stockholm (Stockholm Exergi)",
+        "country": "Sweden",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "bioenergy",
+        "operator": "Stockholm Exergi",
+        "location": "Värtan, Stockholm, Sweden",
+        "capacity": "~0.8 MtCO₂/yr",
+        "description": "World's first large-scale bioenergy with carbon capture and storage at a district-heating biomass plant, with FID taken in 2025 and biogenic CO₂ removal targeted by 2028."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8,
+          57.71
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg Materials Slite CCS",
+        "country": "Sweden",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Heidelberg Materials",
+        "location": "Slite, Gotland, Sweden",
+        "capacity": "~1.8 MtCO₂/yr",
+        "description": "Heidelberg Materials' planned carbon capture at the Slite cement plant on Gotland, Sweden's largest single industrial CO₂ emitter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44,
+          58.28
+        ]
+      },
+      "properties": {
+        "name": "Preem Lysekil CCS",
+        "country": "Sweden",
+        "status": "development",
+        "stage": "early development",
+        "type": "industrial",
+        "operator": "Preem",
+        "location": "Lysekil, Sweden",
+        "capacity": "~0.5 MtCO₂/yr",
+        "description": "Planned carbon capture at Preem's Lysekil refinery to reduce refinery emissions."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          -10.9
+        ]
+      },
+      "properties": {
+        "name": "Bayu-Undan CCS",
+        "country": "Timor-Leste",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "storage",
+        "operator": "Santos",
+        "location": "Bayu-Undan field, Timor Sea",
+        "capacity": "up to ~10 MtCO₂/yr",
+        "description": "Santos-led plan to convert the Bayu-Undan gas field, shared between Timor-Leste and Australia, into a large offshore CO₂ storage hub after gas production ends."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          23.9
+        ]
+      },
+      "properties": {
+        "name": "Bab Gas Plant CCS",
+        "country": "United Arab Emirates",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "capture",
+        "operator": "ADNOC",
+        "location": "Bab, Abu Dhabi, UAE",
+        "capacity": "—",
+        "description": "A planned CO₂ capture project at ADNOC's Bab gas processing complex, with FEED awarded to Worley in late 2024. Part of ADNOC's target to reach 10 Mtpa of carbon capture capacity by 2030."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.66,
+          23.83
+        ]
+      },
+      "properties": {
+        "name": "Habshan CCS",
+        "country": "United Arab Emirates",
+        "status": "development",
+        "stage": "construction",
+        "type": "capture",
+        "operator": "ADNOC Gas (ADNOC)",
+        "location": "Habshan, Abu Dhabi, UAE",
+        "capacity": "~1.5 MtCO₂/yr",
+        "description": "ADNOC Gas is building CO₂ capture units at the Habshan gas processing plant for permanent geological storage, with FID taken in September 2023. The project triples ADNOC's capture capacity to ~2.3 Mtpa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          57.56
+        ]
+      },
+      "properties": {
+        "name": "Acorn CCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hub",
+        "operator": "Storegga (with Shell and Harbour Energy)",
+        "location": "St Fergus, Aberdeenshire, Scotland",
+        "capacity": "~5 MtCO₂/yr initial",
+        "description": "Scottish CCS project capturing CO₂ at the St Fergus gas terminal for storage in the Goldeneye/Acorn offshore store; a UK Track-2 project led by Storegga with Shell and Harbour Energy."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99,
+          53.74
+        ]
+      },
+      "properties": {
+        "name": "Drax BECCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "bioenergy",
+        "operator": "Drax Group",
+        "location": "Selby, North Yorkshire, United Kingdom",
+        "capacity": "up to ~8 MtCO₂/yr",
+        "description": "Bioenergy with carbon capture and storage at the Drax power station, aiming to remove millions of tonnes of CO₂ per year pending government support."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9,
+          53.28
+        ]
+      },
+      "properties": {
+        "name": "EET Hydrogen (HPP1) Stanlow",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "construction",
+        "type": "hydrogen",
+        "operator": "EET Hydrogen (Essar Energy Transition)",
+        "location": "Stanlow, Ellesmere Port, United Kingdom",
+        "capacity": "~1 MtCO₂/yr (350 MW H₂)",
+        "description": "Blue hydrogen production at the Stanlow refinery with CO₂ capture routed to the HyNet cluster; the first plant (HPP1) is under construction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.82,
+          53.27
+        ]
+      },
+      "properties": {
+        "name": "Encirc Elton CCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Encirc",
+        "location": "Elton, Cheshire, United Kingdom",
+        "capacity": "~0.2 MtCO₂/yr",
+        "description": "CO₂ capture at the Elton glass manufacturing site as part of the HyNet cluster."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3,
+          53.4
+        ]
+      },
+      "properties": {
+        "name": "Eni Liverpool Bay CO₂ Storage",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "construction",
+        "type": "storage",
+        "operator": "Eni",
+        "location": "Liverpool Bay, Irish Sea, United Kingdom",
+        "capacity": "~4.5 MtCO₂/yr (up to 10 MtCO₂/yr)",
+        "description": "Eni's offshore CO₂ storage hub in depleted Irish Sea gas fields, forming the storage arm of HyNet; FID taken October 2024."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15,
+          54.58
+        ]
+      },
+      "properties": {
+        "name": "H2Teesside",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hydrogen",
+        "operator": "bp",
+        "location": "Teesside, United Kingdom",
+        "capacity": "~2 MtCO₂/yr (1.2 GW H₂)",
+        "description": "bp's planned large-scale blue hydrogen production facility at Teesside with CO₂ capture, feeding the East Coast Cluster."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.07,
+          53.16
+        ]
+      },
+      "properties": {
+        "name": "Hanson Padeswood CCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Heidelberg Materials (Hanson UK)",
+        "location": "Padeswood, Flintshire, Wales, United Kingdom",
+        "capacity": "~0.8 MtCO₂/yr",
+        "description": "Carbon capture at Heidelberg Materials' Padeswood cement works, feeding the HyNet cluster."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.71,
+          51.45
+        ]
+      },
+      "properties": {
+        "name": "Medway / Isle of Grain Energy Hub",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "National Grid Ventures",
+        "location": "Isle of Grain, Kent, United Kingdom",
+        "capacity": "up to ~10 MtCO₂/yr",
+        "description": "National Grid Ventures' proposal to develop a CO₂ import and storage hub at the Isle of Grain LNG terminal."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          53.98
+        ]
+      },
+      "properties": {
+        "name": "Morecambe Net Zero",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "early development",
+        "type": "storage",
+        "operator": "Spirit Energy",
+        "location": "Morecambe Bay, United Kingdom",
+        "capacity": "up to ~5 MtCO₂/yr",
+        "description": "Spirit Energy's plan to store CO₂ in the depleted Morecambe Bay gas fields."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15,
+          54.58
+        ]
+      },
+      "properties": {
+        "name": "Net Zero Teesside Industrial Capture",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "construction",
+        "type": "industrial",
+        "operator": "bp (East Coast Cluster)",
+        "location": "Teesside, United Kingdom",
+        "capacity": "up to ~4 MtCO₂/yr",
+        "description": "Aggregates CO₂ capture from multiple Teesside industrial emitters, including CF Fertilisers, for transport to the Northern Endurance Partnership store."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15,
+          54.6
+        ]
+      },
+      "properties": {
+        "name": "Net Zero Teesside Power (NZT Power)",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "construction",
+        "type": "power",
+        "operator": "bp / Equinor (Net Zero Teesside Power)",
+        "location": "Teesside, United Kingdom",
+        "capacity": "~2 MtCO₂/yr (860 MW)",
+        "description": "bp-Equinor gas-fired power station with integrated carbon capture at Teesside; FID taken in late 2024 with construction under way and operation expected around 2028."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5,
+          54.5
+        ]
+      },
+      "properties": {
+        "name": "Northern Endurance Partnership",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "construction",
+        "type": "storage",
+        "operator": "Northern Endurance Partnership (bp/Equinor/TotalEnergies)",
+        "location": "Endurance saline aquifer, North Sea, United Kingdom",
+        "capacity": "~4.5 MtCO₂/yr initial (up to 20+ MtCO₂/yr)",
+        "description": "Offshore CO₂ transport and storage system serving the East Coast Cluster, injecting into the Endurance saline aquifer; FID taken December 2024."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8,
+          53.05
+        ]
+      },
+      "properties": {
+        "name": "Peak Cluster",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "Progressive Energy",
+        "location": "Derbyshire/Staffordshire, United Kingdom",
+        "capacity": "up to ~3 MtCO₂/yr",
+        "description": "Planned capture network linking cement and lime plants in Derbyshire and Staffordshire to offshore storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33,
+          50.83
+        ]
+      },
+      "properties": {
+        "name": "Solent Cluster",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "early development",
+        "type": "hub",
+        "operator": "ExxonMobil",
+        "location": "Fawley, Southampton, United Kingdom",
+        "capacity": "up to ~3 MtCO₂/yr",
+        "description": "ExxonMobil-led cluster at Fawley aiming to produce blue hydrogen and capture industrial CO₂ for offshore storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          53.37
+        ]
+      },
+      "properties": {
+        "name": "Viking CCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hub",
+        "operator": "Harbour Energy (V Net Zero)",
+        "location": "Theddlethorpe, Lincolnshire, United Kingdom",
+        "capacity": "~10 MtCO₂/yr by 2030",
+        "description": "Harbour Energy-led CO₂ transport and storage cluster in the Humber region, using the Viking depleted gas fields and targeting injection from around 2027."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73,
+          53.34
+        ]
+      },
+      "properties": {
+        "name": "Viridor Runcorn CCS",
+        "country": "United Kingdom",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "industrial",
+        "operator": "Viridor",
+        "location": "Runcorn, Cheshire, United Kingdom",
+        "capacity": "~0.9 MtCO₂/yr",
+        "description": "CO₂ capture at the Runcorn energy-from-waste plant, connecting to the HyNet cluster for transport and storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.666,
+          41.977
+        ]
+      },
+      "properties": {
+        "name": "ADM Cedar Rapids CCS",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "bioenergy",
+        "operator": "Archer Daniels Midland (ADM)",
+        "location": "Cedar Rapids, Iowa",
+        "capacity": "—",
+        "description": "Planned carbon capture and sequestration at ADM's Cedar Rapids ethanol complex, building on the company's Decatur, Illinois operations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5,
+          29.2
+        ]
+      },
+      "properties": {
+        "name": "Bayou Bend CCS",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "storage",
+        "operator": "Chevron / Talos Energy / Carbonvert",
+        "location": "Offshore Texas–Louisiana, Gulf of Mexico",
+        "capacity": "—",
+        "description": "Offshore CO₂ storage hub in Texas state waters of the Gulf of Mexico with large saline-storage capacity, positioned to serve Gulf Coast industrial emitters."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22,
+          30.23
+        ]
+      },
+      "properties": {
+        "name": "Heirloom Carbon DAC (Louisiana)",
+        "country": "United States",
+        "status": "development",
+        "stage": "early development",
+        "type": "DAC",
+        "operator": "Heirloom Carbon",
+        "location": "Louisiana",
+        "capacity": "—",
+        "description": "Direct air capture developer planning commercial limestone-based DAC capacity in Louisiana, tied to the Project Cypress hub and regional storage infrastructure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.367,
+          31.846
+        ]
+      },
+      "properties": {
+        "name": "NET Power Project Permian",
+        "country": "United States",
+        "status": "development",
+        "stage": "construction",
+        "type": "power",
+        "operator": "NET Power / Occidental",
+        "location": "Odessa, Texas",
+        "capacity": "—",
+        "description": "First utility-scale NET Power oxy-combustion natural gas plant (~300 MW) designed to inherently capture its CO₂. Under construction in the Permian Basin with captured CO₂ targeted for enhanced oil recovery and storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.203,
+          41.587
+        ]
+      },
+      "properties": {
+        "name": "Project Bison",
+        "country": "United States",
+        "status": "development",
+        "stage": "early development",
+        "type": "DAC",
+        "operator": "CarbonCapture Inc.",
+        "location": "Wyoming",
+        "capacity": "up to ~5.0 MtCO₂/yr",
+        "description": "Modular solid-sorbent direct air capture project planned in Wyoming with a long-term target of 5 Mtpa by 2030, supported by state incentives."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.217,
+          30.226
+        ]
+      },
+      "properties": {
+        "name": "Project Cypress DAC Hub",
+        "country": "United States",
+        "status": "development",
+        "stage": "early development",
+        "type": "DAC",
+        "operator": "Battelle / Climeworks / Heirloom",
+        "location": "Calcasieu Parish, Louisiana",
+        "capacity": "up to ~1.0 MtCO₂/yr",
+        "description": "DOE-supported regional direct air capture hub in southwest Louisiana combining multiple DAC technologies with dedicated saline storage. Awarded funding under the DOE Regional DAC Hubs program."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.299,
+          47.116
+        ]
+      },
+      "properties": {
+        "name": "Project Tundra",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "power",
+        "operator": "Minnkota Power Cooperative",
+        "location": "Center, North Dakota",
+        "capacity": "~4.0 MtCO₂/yr",
+        "description": "Planned post-combustion CCS retrofit of the Milton R. Young lignite-fired power station, with CO₂ destined for enhanced oil recovery and saline storage in North Dakota."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.455,
+          36.789
+        ]
+      },
+      "properties": {
+        "name": "San Juan Generating Station CCS",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "power",
+        "operator": "Enchant Energy / City of Farmington",
+        "location": "Waterflow, New Mexico",
+        "capacity": "~6.0 MtCO₂/yr",
+        "description": "Proposed post-combustion CCS retrofit of the San Juan coal plant to capture most of its CO₂ for enhanced oil recovery in the Permian and San Juan basins. Facing financing and permitting hurdles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.856,
+          27.516
+        ]
+      },
+      "properties": {
+        "name": "South Texas DAC Hub",
+        "country": "United States",
+        "status": "development",
+        "stage": "early development",
+        "type": "DAC",
+        "operator": "1PointFive (Occidental)",
+        "location": "Kleberg County, Texas",
+        "capacity": "up to ~1.0 MtCO₂/yr",
+        "description": "DOE-supported regional direct air capture hub on the King Ranch in south Texas, building on Stratos technology and targeting up to 1 Mtpa of removal with saline storage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.632,
+          42.031
+        ]
+      },
+      "properties": {
+        "name": "Summit Carbon Solutions Pipeline",
+        "country": "United States",
+        "status": "development",
+        "stage": "advanced development",
+        "type": "hub",
+        "operator": "Summit Carbon Solutions",
+        "location": "Ames, Iowa (multi-state Midwest)",
+        "capacity": "up to ~18 MtCO₂/yr",
+        "description": "Pipeline network designed to capture CO₂ from more than 50 ethanol plants across Iowa, Minnesota, Nebraska, South Dakota and North Dakota and transport it to permanent geologic storage in North Dakota. The largest planned US ethanol-carbon-capture system."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82,
+          41.14
+        ]
+      },
+      "properties": {
+        "name": "Tallgrass Trailblazer CO2 Pipeline",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "hub",
+        "operator": "Tallgrass Energy",
+        "location": "Wyoming–Nebraska",
+        "capacity": "—",
+        "description": "Proposed conversion of a natural gas pipeline into a CO₂ trunk line to move captured CO₂ from Wyoming and Nebraska emitters to geologic storage and enhanced oil recovery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.45,
+          39.465
+        ]
+      },
+      "properties": {
+        "name": "Wabash Valley Resources",
+        "country": "United States",
+        "status": "development",
+        "stage": "planning",
+        "type": "industrial",
+        "operator": "Wabash Valley Resources",
+        "location": "West Terre Haute, Indiana",
+        "capacity": "~1.5 MtCO₂/yr",
+        "description": "Planned ammonia and fertilizer plant with CO₂ capture and injection into a deep saline formation in Indiana, a first-of-kind zero-emission ammonia facility in the state."
+      }
+    }
+  ]
+}
